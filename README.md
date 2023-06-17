@@ -1,7 +1,7 @@
 ## Landing page
 
 <hr>
-** Skills to be demonstrated **
+**_Skills to be demonstrated_**
 <ul>
     <li>Use of CSS rules</li>
     <li>Flexbox layout</li>
