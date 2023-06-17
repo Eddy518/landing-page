@@ -7,3 +7,4 @@
     <li>Flexbox layout</li>
     <li>Use of divs and classes</li>
     <li>Use of margin and padding<li>
+</ul>
