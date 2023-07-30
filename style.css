@@ -14,6 +14,9 @@ body {
   display: flex;
   justify-content: space-around;
 }
+.nav .logo {
+  padding-left: 240px;
+}
 .info-container {
   display: flex;
   flex-direction: column;
@@ -114,6 +117,7 @@ button.sign-up {
   align-items: center;
   justify-content: center;
   padding-bottom: 30px;
+  padding-top: 3em;
 }
 .text {
   padding: 10px;
@@ -166,4 +170,13 @@ button:hover {
   cursor: pointer;
   background-color: #7eace8;
   color: rgb(238, 232, 232);
+}
+.header-container {
+  padding-bottom: 4em;
+}
+div.image {
+  margin: 5px;
+}
+.info-container {
+  padding-bottom: 2em;
 }
